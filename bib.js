@@ -5,6 +5,7 @@
 		}
 	],
 	"category": [
-		"Forums"
+		"Forums",
+		"Tech"
 	]
 }
