@@ -1,3 +1,8 @@
 {
-	"collection": []
+	"reference": [
+		{}
+	],
+	"category": [
+		"Forums"
+	]
 }
